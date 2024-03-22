@@ -1,0 +1,8 @@
+{
+  "Components": {
+    "Search.md": "./doc/Search.md",
+    "assets": {
+      "search.jpg": "./doc/assets/search.jpg"
+    }
+  }
+}

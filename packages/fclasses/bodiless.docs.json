@@ -1,0 +1,10 @@
+{
+  "Development": {
+    "Guides": {
+      "TokensAndTypescript.md": "./doc/Types.md"
+    },
+    "Architecture": {
+      "FClasses.md": "./README.md"
+    }
+  }
+}

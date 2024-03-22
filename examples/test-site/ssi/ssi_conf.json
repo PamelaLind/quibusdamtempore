@@ -1,0 +1,11 @@
+{
+  "bv": {
+    "pragma": "<!--# include virtual=\"/bv.html\" -->",
+    "dev": {
+      "file": "bv.dev.html"
+    },
+    "prod": {
+      "file": "bv.prod.html"
+    }
+  }
+}
